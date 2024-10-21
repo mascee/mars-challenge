@@ -9,7 +9,7 @@ For this project I used this website: [Mars Data](https://static.bc-edx.com/data
 2. Number of Sols in the data set on Mars is 1867
 3. Coldest month on Mars is month number 3. The temperature reaches -83.31 C
    Warmest month on Mars is month number 8. The temperature reaches -68.38 C
-   ![Sorted Average Min Temperature on Mars](Output_Images/Sorted_Avg_Min_Temp.jpg)
+   ![Sorted Average Min Temperature on Mars](Output_Images/Sorted_Avg_Min_Temp_Mars.jpg)
 4. By observing this graph and comparing dates with minimum and maximum temperatures, I estimate Martian year to be a little less then 700  terrestial days.
    ![Daily_Min_Temp_Mars](Output_Images/Daily_Min_Temp_Mars.jpg)
 5. Atmospheric Pressure:
